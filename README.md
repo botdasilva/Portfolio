@@ -1,4 +1,4 @@
-# 🔐About CryptoTool — File Encryption & Decryption
+# 🔐About Cry(p)Tool — File Encryption & Decryption
 
 A simple but effective Python tool to **encrypt and decrypt any type of file** using **password-based symmetric encryption**.
 
